@@ -1,4 +1,6 @@
 # Cognifyz-Technologies
+This project focused on analyzing and visualizing gender-based differences in investment preferences, and it has been an incredible learning journey.
+Project Objective:
 The primary goal was to explore how males and females differ in their investment choices, motivations, and behaviors. Using Power BI, I aimed to uncover key trends that can inform more personalized and effective financial advising.
 📊 Key Findings:
 Investment Preferences:
